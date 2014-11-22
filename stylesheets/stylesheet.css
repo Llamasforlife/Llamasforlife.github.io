@@ -4,6 +4,13 @@
 Theme Styles
 *******************************************************************************/
 
+head {
+  box-sizing: border-box;
+  color:#336666;
+  font-size: 21px;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+}
+
 body {
   box-sizing: border-box;
   color:#373737;
