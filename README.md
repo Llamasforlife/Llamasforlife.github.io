@@ -6,7 +6,6 @@ Llamasforlife.github.io
 **Kotowaza** are Japanese proverbs
 
 To see a list of kotowaza click this [link to wikipedia]
-
 (http://en.wikipedia.org/wiki/Japanese_proverbs)
 
 
