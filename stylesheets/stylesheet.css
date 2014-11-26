@@ -1,8 +1,23 @@
 header {
-  color: 009933;
+  color: white;
   text-align: center;
-  font-size: 40px;
-  font-family: verdana; 
-  border-style: dashed; 
-  border-width: medium;
+  font-size: 60px;
+  font-weight: bold; 
+  font-family: "Arial Black"; 
+  width: 950px; 
+  background-color: black; 
+  outline: DarkSlateGray solid thick;
+  width: 1150px;
+  padding: 50px; 
+  border: 25px white; 
+  margin-left: auto; 
+  margin-right: auto; 
 }
+#intro {
+text-align: center; 
+font-size: 35px;
+width: 1000px;
+padding: 90px;  
+border: 20px; 
+margin: auto; 
+background-image: url(snow.jpg);
